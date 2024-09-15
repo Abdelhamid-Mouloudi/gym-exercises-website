@@ -14,7 +14,7 @@ A web application to search and explore gym exercises with related videos, BMI c
 </ul>
 
 # 🌐 Live Demo:
-Check out the live demo of the Gym Exercise Web App [here](https://your-deployment-link.com). 
+Check out the live demo of the Gym Exercise Web App [here](https://gym-exercises-hub.netlify.app/). 
 
 ### Used APIs in this React Application (Rapid APIs)
 Create an account and get API keys to set in the application. Create a `.env` file in your React folder and paste the following code with your API key:
