@@ -36,7 +36,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             style={{ color: '#fefae0', marginLeft: '10px'}}
           >
-            <GitHub fontSize="large" mt4/>
+            <GitHub fontSize="large" />
           </a>
         </Typography>
       </Stack>

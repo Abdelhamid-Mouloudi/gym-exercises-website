@@ -2,16 +2,19 @@
 
 A web application to search and explore gym exercises with related videos, BMI calculator, and more. Powered by React.js and Rapid APIs.
 
-# 😱 Features:
+# 🚀 Features:
 <ul>
 <h3>
     <li>1000s of Exercises with videos </li>
     <li>Similar Exercises</li>
-    <li>Similar Youtube videos</li>
+    <li>Similar YouTube videos</li>
     <li>Body Mass Index (BMI) Calculator</li>
     <li>Exercises Equipment</li>
 </h3>
 </ul>
+
+# 🌐 Live Demo:
+Check out the live demo of the Gym Exercise Web App [here](https://your-deployment-link.com). 
 
 ### Used APIs in this React Application (Rapid APIs)
 Create an account and get API keys to set in the application. Create a `.env` file in your React folder and paste the following code with your API key:
@@ -23,11 +26,11 @@ ESLINT_NO_DEV_ERRORS=true
 # 🔑 APIs
 <ul>
     <li> <a href="https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/">Exercises Data</a></li>
-    <li> <a href="https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/">Youtube Search and Download</a></li>
+    <li> <a href="https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/">YouTube Search and Download</a></li>
     <li> <a href="https://rapidapi.com/malaaddincelik/api/fitness-calculator/">BMI Calculator</a></li>
 </ul>
 
-# 📚 Languages, Frameworks, Platforms, and Libraries
+# 📚 Languages, Frameworks and Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/material_ui-%231572B6.svg?style=for-the-badge&logo=material_ui&logoColor=white)
@@ -35,8 +38,7 @@ ESLINT_NO_DEV_ERRORS=true
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Install fresh react app with <span>create-react-app</span> to install the default packages of react.
-### Now edit package.json file and replace DEPENDENCIES with the below code to run the error free app 
-### code:
+### Now edit package.json file and replace DEPENDENCIES with the below code to run the error-free app:
 <pre>
 "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -50,10 +52,20 @@ ESLINT_NO_DEV_ERRORS=true
     "react-router-dom": "^6.3.0",
     "react-scripts": "^2.1.3"
   },
-  </pre>
-  ### Then Run this command on your terminal to install these above dependencies:
- <pre> npm install --legacy-peer-deps </pre>
-  ### OR
-  <pre> yarn add --legacy-peer-deps</pre>
+</pre>
+
+### Then Run this command on your terminal to install these above dependencies:
+<pre> npm install --legacy-peer-deps </pre>
+### OR
+<pre> yarn add --legacy-peer-deps</pre>
+
 ### At last run
-  <pre> npm start</pre>
+<pre> npm start</pre>
+
+# 📞 Connect with Me:
+If you have any questions or need further assistance, feel free to reach out to me through any of the following platforms:
+
+- 📧 [Email](mailto:abdelhamidmouloudi2003@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelhamid--mouloudi/)
+- 📸 [Instagram](https://www.instagram.com/mouloudiabdelhamid/)
+- 🖥️ [GitHub](https://github.com/Abdelhamid-Mouloudi)
