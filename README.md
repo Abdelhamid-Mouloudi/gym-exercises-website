@@ -1,4 +1,4 @@
-# 🏋️ Gym Exercise Web App
+# 🏋️ Gym Exercises WebSite
 
 A web application to search and explore gym exercises with related videos, BMI calculator, and more. Powered by React.js and Rapid APIs.
 
@@ -68,4 +68,3 @@ If you have any questions or need further assistance, feel free to reach out to 
 - 📧 [Email](mailto:abdelhamidmouloudi2003@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelhamid--mouloudi/)
 - 📸 [Instagram](https://www.instagram.com/mouloudiabdelhamid/)
-- 🖥️ [GitHub](https://github.com/Abdelhamid-Mouloudi)

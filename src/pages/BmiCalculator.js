@@ -14,7 +14,7 @@
 //     }
 // }
 
-import React, { useEffect, useState} from 'react';
+import React, {useState} from 'react';
 import { Box, Stack, Typography, TextField, Button } from '@mui/material';
 import { fetchData, BMIOptions } from '../utils/fetchData';
 
